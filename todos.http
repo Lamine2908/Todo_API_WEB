@@ -1,0 +1,26 @@
+GET http://localhost:5156/todoitems/
+
+###
+
+POST http://localhost:5156/todoitems
+Content-Type: application/json
+
+{
+    "name":"Exercice",
+    "isComplete": true
+}
+
+###
+PUT http://localhost:5156/itemname/Exercice
+Content-Type: application/json
+
+{
+    "name":"Examen",
+    "isComplete": false
+}
+
+###
+DELETE http://localhost:5156/todoitems/3
+
+###
+

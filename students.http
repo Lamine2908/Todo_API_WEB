@@ -1,0 +1,19 @@
+GET http://localhost:5156/student/1
+
+###
+POST http://localhost:5156/students
+Content-Type: application/json
+
+{
+    "name":"Lamine FALL",
+    "isPresent":false
+}
+
+###
+POST http://localhost:5156/teachers
+Content-Type: application/json
+
+{
+    "name":"Abdou DIOP",
+    "isPresent":true
+}
