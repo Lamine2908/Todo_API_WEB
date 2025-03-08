@@ -51,3 +51,7 @@ c:\dotnet\TodoApi\bin\Debug\net8.0\NSwag.Generation.dll
 c:\dotnet\TodoApi\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
 c:\dotnet\TodoApi\bin\Debug\net8.0\YamlDotNet.dll
 c:\dotnet\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\dotnet\TodoApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\dotnet\TodoApi\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\dotnet\TodoApi\bin\Debug\net8.0\MiniValidation.dll

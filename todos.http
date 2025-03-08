@@ -6,7 +6,7 @@ POST http://localhost:5156/todoitems
 Content-Type: application/json
 
 {
-    "name":"Exercice",
+    "name":"wwwww",
     "isComplete": true
 }
 

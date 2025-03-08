@@ -1,0 +1,11 @@
+POST http://localhost:5156/teachers
+Content-Type: application/json
+
+{
+    "name":"Diatta",
+    "isPresent":true
+}
+
+###
+
+GET http://localhost:5156/teachers
